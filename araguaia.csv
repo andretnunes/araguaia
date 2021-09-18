@@ -1,0 +1,34 @@
+codigo_ibge,nome,latitude,longitude,capital,codigo_uf,siafi_id,ddd,fuso_horario
+5300108,Brasília,-15.7795,-47.9297,1,53,9701,61,America/Sao_Paulo
+5205109,Catalão,-18.1656,-47.944,0,52,9301,64,America/Sao_Paulo
+5205406,Ceres,-15.3061,-49.6,0,52,9307,62,America/Sao_Paulo
+5206206,Cristalina,-16.7676,-47.6131,0,52,9325,61,America/Sao_Paulo
+5208004,Formosa,-15.54,-47.337,0,52,9361,61,America/Sao_Paulo
+5208707,Goiânia,-16.6864,-49.2643,1,52,9373,62,America/Sao_Paulo
+5210406,Itaberaí,-16.0206,-49.806,0,52,9403,62,America/Sao_Paulo
+5212204,Jussara,-15.8659,-50.8668,0,52,9439,62,America/Sao_Paulo
+5212501,Luziânia,-16.253,-47.95,0,52,9445,61,America/Sao_Paulo
+5215306,Orizona,-17.0334,-48.2964,0,52,9503,64,America/Sao_Paulo
+5215702,Palmeiras de Goiás,-16.8044,-49.924,0,52,9511,64,America/Sao_Paulo
+5217104,Piracanjuba,-17.302,-49.017,0,52,9539,64,America/Sao_Paulo
+5218003,Porangatu,-13.4391,-49.1503,0,52,9555,62,America/Sao_Paulo
+5218805,Rio Verde,-17.7923,-50.9192,0,52,9571,64,America/Sao_Paulo
+5221601,Uruaçu,-14.5238,-49.1396,0,52,9633,62,America/Sao_Paulo
+5222005,Vianópolis,-16.7405,-48.5159,0,52,9641,62,America/Sao_Paulo
+5100201,Água Boa,-14.051,-52.1601,0,51,9191,66,America/Porto_Velho
+5100250,Alta Floresta,-9.86674,-56.0867,0,51,8987,66,America/Porto_Velho
+5101803,Barra do Garças,-15.8804,-52.264,0,51,9035,66,America/Porto_Velho
+5102504,Cáceres,-16.0764,-57.6818,0,51,9047,65,America/Porto_Velho
+5102702,Canarana,-13.5515,-52.2705,0,51,9193,66,America/Porto_Velho
+5103353,Confresa,-10.6437,-51.5699,0,51,0131,66,America/Porto_Velho
+5200100,Abadiânia,-16.197,-48.7057,0,52,9201,62,America/Sao_Paulo
+5103403,Cuiabá,-15.601,-56.0974,1,51,9067,65,America/Porto_Velho
+5105259,Lucas do Rio Verde,-13.0588,-55.9042,0,51,9925,65,America/Porto_Velho
+5106224,Nova Mutum,-13.8374,-56.0743,0,51,9937,65,America/Porto_Velho
+5107040,Primavera do Leste,-15.544,-54.2811,0,51,9871,66,America/Porto_Velho
+5107065,Querência,-12.6093,-52.1821,0,51,0097,66,America/Porto_Velho
+5107602,Rondonópolis,-16.4673,-54.6372,0,51,9151,66,America/Porto_Velho
+5107909,Sinop,-11.8604,-55.5091,0,51,8985,66,America/Porto_Velho
+5107925,Sorriso,-12.5425,-55.7211,0,51,9907,66,America/Porto_Velho
+1100304,Vilhena,-12.7502,-60.1488,0,11,0013,69,America/Porto_Velho
+1709500,Gurupi,-11.7279,-49.068,0,17,9385,63,America/Sao_Paulo
