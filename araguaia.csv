@@ -3,6 +3,7 @@ codigo_ibge,nome,latitude,longitude,capital,codigo_uf,siafi_id,ddd,fuso_horario
 5206206,Cristalina,-16.7676,-47.6131,0,52,9325,61,America/Sao_Paulo
 5212501,Luziânia,-16.253,-47.95,0,52,9445,61,America/Sao_Paulo
 5208004,Formosa,-15.54,-47.337,0,52,9361,61,America/Sao_Paulo
+5201108,Anápolis,-16.3281,-48.953,0,52,9221,62,America/Sao_Paulo
 5205406,Ceres,-15.3061,-49.6,0,52,9307,62,America/Sao_Paulo
 5208707,Goiânia,-16.6864,-49.2643,1,52,9373,62,America/Sao_Paulo
 5210406,Itaberaí,-16.0206,-49.806,0,52,9403,62,America/Sao_Paulo
