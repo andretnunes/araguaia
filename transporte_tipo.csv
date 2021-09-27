@@ -1,0 +1,12 @@
+Tipo;Tipo;Eixos;Toneladas
+Toco;Caminhões;2;6
+Toco Duplo;Caminhões;2;10
+Tandem;Caminhões;3;13
+NÆo Tandem;Caminhões;3;20
+Triplo;Caminhões;4;30
+Trucado;Carreta;3;10
+Duplo;Carreta;4;33
+Triplo;Carreta;5;41
+Cavalo Trucado;Carreta;6;45
+Bitrem;Carreta;7;57
+Rodotrem;Carreta;9;74
